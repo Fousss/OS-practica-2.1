@@ -1,5 +1,7 @@
 P1 : n
+
 P2 : 2n
+
 P3 : n, 2n
 
 sources: Henry, Jean.
